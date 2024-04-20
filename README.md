@@ -1,5 +1,5 @@
 # Boaz-Y.github.io
-![](https://www.weizmann.ac.il/RSD/sites/RSD/files/wis_logo_wis_logo_eng_v1_white.png)
+![](https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Weizmann_Institute_of_Science.svg/150px-Weizmann_Institute_of_Science.svg.png)
 
 Welcome to my personal page!
 I'm a Ph.D student at the Weizmann Institute of Science in Israel. 
