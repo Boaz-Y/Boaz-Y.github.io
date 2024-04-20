@@ -1,5 +1,5 @@
 # Boaz-Y.github.io
-![](https://www.weizmann.ac.il/pages/sites/default/files/group_1262x_1.png "WIS logo")
+![](https://www.weizmann.ac.il/RSD/sites/RSD/files/wis_logo_wis_logo_eng_v1_white.png)
 
 Welcome to my personal page!
 I'm a Ph.D student at the Weizmann Institute of Science in Israel. 
