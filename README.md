@@ -5,7 +5,10 @@
 
 Welcome to my personal page! 
 I'm a Ph.D student at the Weizmann Institute of Science in Israel. 
-If you're interested in solutions for my assignments in the python course, you can view them [in the solutions repository here](https://github.com/Boaz-Y/Solutions)
+If you're interested in solutions for my assignments in the python course, you can view them [in the solutions repository here](https://github.com/Boaz-Y/Solutions).
+
+If you're interested in what other students from the course are working on, I recommend you check out [Hadar's page](https://hadarklimovski.github.io/), [Rebecca's page](https://rebka1989.github.io/) and [Anita's page](https://anitamf.github.io/) who all do great research at WIS.
+
 My research is done in Orly Reiner's lab using brain organoids to model the cascade leading to familial Alzheimer's disease. You can read more about our group [here](https://www.weizmann.ac.il/molgen/Reiner/home).
 
 You can view my linkedin [here](https://www.linkedin.com/in/boaz-yaari/).
